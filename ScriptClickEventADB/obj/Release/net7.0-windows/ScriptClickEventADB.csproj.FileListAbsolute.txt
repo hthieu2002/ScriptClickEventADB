@@ -1,0 +1,16 @@
+D:\code\ScriptClickEventADB\ScriptClickEventADB\bin\Release\net7.0-windows\ScriptClickEventADB.exe
+D:\code\ScriptClickEventADB\ScriptClickEventADB\bin\Release\net7.0-windows\ScriptClickEventADB.deps.json
+D:\code\ScriptClickEventADB\ScriptClickEventADB\bin\Release\net7.0-windows\ScriptClickEventADB.runtimeconfig.json
+D:\code\ScriptClickEventADB\ScriptClickEventADB\bin\Release\net7.0-windows\ScriptClickEventADB.dll
+D:\code\ScriptClickEventADB\ScriptClickEventADB\bin\Release\net7.0-windows\ScriptClickEventADB.pdb
+D:\code\ScriptClickEventADB\ScriptClickEventADB\obj\Release\net7.0-windows\ScriptClickEventADB.Form1.resources
+D:\code\ScriptClickEventADB\ScriptClickEventADB\obj\Release\net7.0-windows\ScriptClickEventADB.csproj.GenerateResource.cache
+D:\code\ScriptClickEventADB\ScriptClickEventADB\obj\Release\net7.0-windows\ScriptClickEventADB.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\ScriptClickEventADB\ScriptClickEventADB\obj\Release\net7.0-windows\ScriptClickEventADB.AssemblyInfoInputs.cache
+D:\code\ScriptClickEventADB\ScriptClickEventADB\obj\Release\net7.0-windows\ScriptClickEventADB.AssemblyInfo.cs
+D:\code\ScriptClickEventADB\ScriptClickEventADB\obj\Release\net7.0-windows\ScriptClickEventADB.csproj.CoreCompileInputs.cache
+D:\code\ScriptClickEventADB\ScriptClickEventADB\obj\Release\net7.0-windows\ScriptClickEventADB.dll
+D:\code\ScriptClickEventADB\ScriptClickEventADB\obj\Release\net7.0-windows\refint\ScriptClickEventADB.dll
+D:\code\ScriptClickEventADB\ScriptClickEventADB\obj\Release\net7.0-windows\ScriptClickEventADB.pdb
+D:\code\ScriptClickEventADB\ScriptClickEventADB\obj\Release\net7.0-windows\ScriptClickEventADB.genruntimeconfig.cache
+D:\code\ScriptClickEventADB\ScriptClickEventADB\obj\Release\net7.0-windows\ref\ScriptClickEventADB.dll
